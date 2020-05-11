@@ -12,13 +12,13 @@ Vue.use(VueSwal)
 
 
 firebase.initializeApp({
-  apiKey: "AIzaSyAZHoS_zDFzjq3N37_mQ7QBmMEJelUNnTA",
-    authDomain: "lumen-mec-srl.firebaseapp.com",
-    databaseURL: "https://lumen-mec-srl.firebaseio.com",
-    projectId: "lumen-mec-srl",
-    storageBucket: "lumen-mec-srl.appspot.com",
-    messagingSenderId: "647791051243",
-    appId: "1:647791051243:web:8b6be708f8f67280f0d9ae"
+  apiKey: "###",
+    authDomain: "#####",
+    databaseURL: "#####",
+    projectId: "########",
+    storageBucket: "###############",
+    messagingSenderId: "##########",
+    appId: "##########"
 });
 
 export const db = firebase.firestore()
